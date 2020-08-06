@@ -17,3 +17,4 @@ module.exports = {
     return bcrypt.compareSync(candidatePassword, userPassword);
   }
 };
+
